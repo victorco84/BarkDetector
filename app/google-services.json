@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "547320532723",
+    "firebase_url": "https://barkdetector.firebaseio.com",
+    "project_id": "barkdetector",
+    "storage_bucket": "barkdetector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547320532723:android:6724d1b229902732",
+        "android_client_info": {
+          "package_name": "com.dynamicvision.victorcortez.barkdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547320532723-u0ut8vo1hfkv01uc9j9hb7b4poike3a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADS35LxE8AS0gEjtQmRLQHsBcOcNmnx2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
